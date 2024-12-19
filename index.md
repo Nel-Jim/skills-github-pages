@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog
-Nel Jimenez & Nakai
+main characters: Nel & Nakai
 ---
 
